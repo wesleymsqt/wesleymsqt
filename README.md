@@ -1,8 +1,8 @@
 ## Hi! I'm Wesley Mesquita 🖐️
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wesleymsqt@alu.ufc.br)
-[![Instagram]([[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/](https://www.instagram.com/wesley_mesqt/?next=%2F)](https://www.instagram.com/wesley_mesqt/))
-[![Linkedin](www.linkedin.com/in/wesleymsqt)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesley_mesqt/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleymsqt)
 
 
 ![WesLey Mesquita's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmesq&show_icons=true&theme=dracula&count_private=true)
@@ -24,3 +24,4 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 Passionate about technology and always looking for something new, learning never hurts..."Being a developer is a journey where the next stop is the solution of a problem".
+
