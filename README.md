@@ -1,8 +1,8 @@
 ## Hi! I'm Wesley Mesquita 🖐️
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wesleymsqt@alu.ufc.br)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Linkedin]([[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/sujeitoprogramador](https://www.linkedin.com/in/francisco-wesley-pereira-mesquita-2b6634242/?originalSubdomain=br)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B6gbcjrpKTIeFDcT5wmM%2Few%3D%3D))
+[![Instagram]([[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/](https://www.instagram.com/wesley_mesqt/?next=%2F)](https://www.instagram.com/wesley_mesqt/))
+[![Linkedin](www.linkedin.com/in/wesleymsqt)
 
 
 ![WesLey Mesquita's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmesq&show_icons=true&theme=dracula&count_private=true)
