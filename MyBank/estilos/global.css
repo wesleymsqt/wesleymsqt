@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/*CONFIG DA PAGINA PRINCIPAL*/
+body {
+    font-weight: 800;
+    font-family: 'Inter', sans-serif;
+    text-transform: uppercase;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #480ca8;
+}
+.page {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    
+}
+
+/* CONFIGS DO SEPARADOR/INPUT */
+.content-separator {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+    width: 100%;
+    margin: 20px 0;
+}
+.input-content {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+.input-content label {
+    font-size: 700;
+    margin-left: 15px;
+}
+
+/*CONFIG DOS TITULOS*/
+h1{
+    color: #F2ECE9;
+    font-size: 2rem;
+    margin: 15px;
+    text-align: center;
+}
+.title {
+    color: black;
+    font-size: 2.5rem;
+    margin: 15px;
+    text-align: center;
+}
+.subtitle {
+    font-size: 1.7rem;
+    margin: 10px;
+    text-align: center;
+}
+.subtitleLong {
+    font-weight: 800;
+    font-size: 1.4rem;
+    margin: 10px;
+    text-align: center;
+}
+
+/*CONFIGS DO MODAL*/
+.modal-overlay {
+    background-color: rgba(0, 0, 0, 0.8);
+    display: none;
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    opacity: 0;
+    visibility: hidden;
+}
+.active {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    visibility: visible;
+}
+.modal {
+    background-color: #6831c2;   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 35%;
+    padding-top: 5px;
+    position: relative;
+    border-radius: 30px;
+}
+.modal-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 50%;
+    max-width: 400px;
+}
+.modal-form input{
+    background-color: white;
+    color: #303030;
+    font-size: 15px;
+    
+    border: 3px solid #2f0572;
+    
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+} 
+.modal-form select {
+    background-color: #F2ECE9;
+    color: black;
+    font-size: 16px;
+
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.modal-form label {
+    font-size: 700;
+    color: black;
+    margin-left: 15px;
+}
+
+/*CONFIGS DOS BOTÕES PRINCIPAIS*/
+.novaConta {
+    background-color: #741ffd;
+    color: #F2ECE9;
+    font-size: 15px;
+    font-weight: 700;
+    border: 4px solid #F2ECE9;
+    border-radius: 15px;
+    padding: 5px 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: .6s;
+    text-decoration: none;
+    position: absolute;
+    right: 3%;
+    top: 4%;
+}
+.novaConta:hover,
+.novaConta:focus {
+    box-shadow: inset 450px 0 0 0 white;
+}
+.submit-btn {
+    background-color: #741ffd;
+    color: #F2ECE9;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 700;
+    border: 4px solid #2d066d;
+    border-radius: 15px;
+    padding: 5px 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: .6s;
+    text-decoration: none;
+}
+.submit-btn:hover,
+.submit-btn:focus {
+    box-shadow: inset 450px 0 0 0 #4AD96D;
+}
+.back-btn {
+    background-color: #741ffd;
+    color: #F2ECE9;
+    font-size: 15px;
+    font-weight: 700;
+    border: 4px solid #F2ECE9;
+    border-radius: 15px;
+    padding: 5px 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: .6s;
+    text-decoration: none;
+    position: absolute;
+    left: 3%;
+    top: 4%;
+}
+.back-btn:hover,
+.back-btn:focus {
+    box-shadow: inset 450px 0 0 0 #fa1a1a;
+}

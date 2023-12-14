@@ -1,0 +1,44 @@
+/*CONFIGS DO FORM DE CADASTRO*/
+.formCad {
+    display: flex;
+    flex-direction: column;
+    
+    background-color: white;
+    border-radius: 7px;
+
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+
+    height: 100%;
+    width: 50%;
+    margin: 0;
+    
+    padding: 10px;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.4);
+}
+.formCad input {
+    background-color: white;
+    color: #303030;
+    font-size: 15px;
+    border: 3px solid #2f0572;
+    
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+}
+.formCad select{
+    background-color: white;
+    color: #303030;
+    font-size: 15px;
+    border: 3px solid #2f0572;
+    
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+}
+.formCad label {
+    margin-left: 15px;
+}

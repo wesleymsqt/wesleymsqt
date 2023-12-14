@@ -1,0 +1,95 @@
+/* CONFIGS DO CONTAINER */
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 7px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    height: 100%;
+    width: 50%;
+    margin: 0;
+    padding: 10px;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.4);
+}
+.container label {
+    font-size: 17px;
+    font-weight: 700;
+
+    border: 4px solid #2d066d;
+    border-radius: 15px;
+
+    padding: 5px 5px;
+    margin-left: 7px;
+}
+
+/*CONFIGS DO FORM*/
+.form-title {
+    color: #F2ECE9;
+    font-size: 2rem;
+    font-weight: 800;
+    margin-bottom: 5px;
+}
+.form label {
+    color: #F2ECE9;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.form input {
+    background-color: #F2ECE9;
+    color: #303030;
+
+    border: 3px solid #2f0572;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+}
+.form select{
+    background-color: white;
+    color: #303030;
+    font-size: 15px;
+    border: 3px solid #2f0572;
+    
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+}
+/* CONFIGS DA AREA DE SCROLL */
+.scroll-area {
+    display: flex;
+    flex-direction: column;
+
+    width: 60%;
+    height: 300px;
+    padding: 5px 0;
+    margin-bottom: 20px;
+    overflow-y: auto;
+}
+
+/* CONFIGS DO CARD */
+.card {
+    background-color: #c5a6f8;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 70%;
+
+    border: 4px solid #300770;
+    border-radius: 10px;
+    border-left: 8px solid #6537af;
+
+    padding: 5px;
+    margin: 5px;
+}
+.cardTexto {
+    margin-left: 5%;
+    font-size: 16px;
+    color: black;
+}

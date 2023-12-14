@@ -1,0 +1,91 @@
+/* CONFIGS DA PAGINA DE LOGIN */
+.pageLogin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
+/* CONFIGS DO FORM DE LOGIN */
+.formLogin {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    border-radius: 7px;
+    padding: 20px;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.4);
+    gap: 5px;
+}
+.areaLogin img {
+    width: 420px;
+}
+.formLogin p {
+    display: inline-block;
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 25px;
+}
+.formLogin input {
+    padding: 15px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    border-radius: 4px;
+    transition: all linear 160ms;
+    outline: none;
+}
+.formLogin input:focus {
+    border: 1px solid #480ca8;
+}
+.formLogin label {
+    font-size: 14px;
+    font-weight: 600;
+}
+.formLogin a:hover {
+    color: #480ca8;
+}
+.subtitleLogin {
+    color: #666;
+    font-weight: 800;
+    font-size: 1rem;
+    margin: 10px;
+    margin-left: 15px;
+}
+/* CONFIGS DO BOTAO DA TELA DE LOGIN */
+.link-btn {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    font-size: 12px;
+
+    color: #666;
+    transition: all linear 160ms;
+}
+.link-btn:hover,
+.link-btn:focus {
+    box-shadow: inset 450px 0 0 0 white;
+}
+.login-btn {
+    background-color: #741ffd;
+    color: #F2ECE9;
+
+    text-align: center;
+    font-size: 17px;
+    font-weight: 700;
+    border: 4px solid #2d066d;
+    border-radius: 15px;
+
+    padding: 5px 5px;
+    margin: 5px;
+
+    cursor: pointer;
+    transition: .6s;
+    text-decoration: none;
+}
+.login-btn:hover,
+.login-btn:focus {
+    box-shadow: inset 450px 0 0 0 white;
+}
