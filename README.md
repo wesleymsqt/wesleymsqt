@@ -2,16 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=30&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Wesley+Mesquita;Computer+Engineering+Student+@UFC;Full-Stack+Developer;Dev+Full-Stack;Welcome+to+my+world!+%3A%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wesleymsqt&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=1a1a1a" alt="Wesley's GitHub stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleymsqt&layout=compact&hide_border=true&title_color=00FF7F&text_color=FFFFFF&bg_color=1a1a1a" />
-</div>
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wesleymsqt&bg_color=1a1a1a&color=FFFFFF&line=00FF7F&point=00FF7F&area=true&area_color=00FF7F44&hide_border=true&custom_title=My+Development+Flow)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wesleymsqt&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</p>
 
 ---
 
