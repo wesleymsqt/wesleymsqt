@@ -10,7 +10,6 @@
 
 #### **Front-End Development**
 ![HTML5](https://img.shields.io/badge/-HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=FFFFFF)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=FFFFFF)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=FFFFFF)&nbsp;
 ![React](https://img.shields.io/badge/-React-1a1a1a?style=for-the-badge&logo=react&logoColor=FFFFFF)&nbsp;
 ![Three.js](https://img.shields.io/badge/-Three.js-1a1a1a?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)&nbsp;
