@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### **Front-End Development**
 ![HTML5](https://img.shields.io/badge/-HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=FFFFFF)&nbsp;
@@ -27,14 +27,14 @@
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=FFFFFF)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-1a1a1a?style=for-the-badge&logo=react&logoColor=FFFFFF)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)&nbsp;
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 <div align="center">
   <a href="mailto:cmp.1a.wesleymsqt@alu.ufc.br">
     <img src="https://img.shields.io/badge/-Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=FFFFFF" target="_blank">
